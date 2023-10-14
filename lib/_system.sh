@@ -498,7 +498,7 @@ EOF
 #######################################
 system_nginx_conf() {
   print_banner
-  printf "${WHITE} 💻 configurando nginx...${GRAY_LIGHT}"
+  printf "${WHITE} Configurando nginx...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -521,7 +521,7 @@ EOF
 #######################################
 system_certbot_setup() {
   print_banner
-  printf "${WHITE} 💻 Configurando certbot...${GRAY_LIGHT}"
+  printf "${WHITE} Configurando certbot...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
