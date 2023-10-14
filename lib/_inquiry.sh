@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador MULTIZAP, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Zap, selecine uma opção!${GRAY_LIGHT}"
   printf "\n\n"
   printf "   [0] Instalar whaticket\n"
   printf "   [1] Atualizar whaticket\n"
   printf "   [2] Deletar Whaticket\n"
   printf "   [3] Bloquear Whaticket\n"
   printf "   [4] Desbloquear Whaticket\n"
-  printf "   [5] Alter. dominio Whaticket\n"
+  printf "   [5] Alterar domínio\n"
   printf "\n"
   read -p "> " option
 
