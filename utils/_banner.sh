@@ -28,12 +28,7 @@ print_banner() {
   printf "\n"
 
 printf "${GREEN}";  
-printf "|\_____  \    |\   __  \    |\   __  \  
-         \|___/  /|   \ \  \|\  \   \ \  \|\  \ 
-             /  / /    \ \   __  \   \ \   ____\
-            /  /_/__    \ \  \ \  \   \ \  \___|
-           |\________\   \ \__\ \__\   \ \__\   
-            \|_______|    \|__|\|__|    \|__|\n";
+printf "Instalação Whaticket Zap One, (scriptzap.com.br) \n";
 
 printf "${NC}";
   
