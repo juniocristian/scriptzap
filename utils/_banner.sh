@@ -22,20 +22,22 @@ print_banner() {
   printf "\n\n"
 
   printf "${GREEN}";
-  printf " ________      ________      ________   \n"
-  printf "|\\_____  \\    |\\   __  \\    |\\   __  \\  \n"
-  printf "\\|___/  /|    \\ \\  \\|\\  \\   \\ \\  \\|\\  \\ \n"
-  printf "    /  / /     \\ \\   __  \\   \\ \\   ____\\\n"
-  printf "   /  /_/__     \\ \\  \\ \\  \\   \\ \\  \\___|\n"
-  printf "  |\\________\\    \\ \\__\\ \\__\\   \\ \\__\\   \n"
-  printf "   \\|_______|     \\|__|\\|__|    \\|__|   \n"
-  printf "\n"
+  printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
+  printf "                                                   ${GREEN}▄█▀${NC}   ${WHITE}▄▄${NC}      ${GREEN}▀█▄\n";
+  printf "                                                   ${GREEN}█${NC}    ${WHITE}███${NC}         ${GREEN}█\n";
+  printf "                                                   ${GREEN}█${NC}    ${WHITE}██▄         ${GREEN}█${NC}\n";
+  printf "                                                   ${GREEN}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${GREEN}█\n";
+  printf "                                                   ${GREEN}█${NC}       ${WHITE}▀███▀${NC}    ${GREEN}█\n";
+  printf "                                                   ${GREEN}▀█▄           ▄█▀\n";
+  printf "                                                    ▄█    ▄▄▄▄█▀▀  \n";
+  printf "                                                    █  ▄█▀        \n";
+  printf "                                                    ▀▀▀▀          \n";
   printf "${NC}";
 
   printf "\n"
 
 printf "${GREEN}";  
-printf "Instalação do Whaticket Zap\n";
+printf "PROJETO EXCLUSIVO DO MULTIZAP\n";
 
 printf "${NC}";
   
