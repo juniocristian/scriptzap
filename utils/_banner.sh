@@ -37,8 +37,7 @@ print_banner() {
   printf "\n"
 
 printf "${GREEN}";  
-printf "Instalação do script Zap\n";
-printf "Instalação do script Zap\n";
+printf "Instalação do script Zap";
 
 printf "${NC}";
   
