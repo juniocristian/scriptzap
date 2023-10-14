@@ -1,1 +1,1 @@
-# installmultizapofc
+# installscriptzap
