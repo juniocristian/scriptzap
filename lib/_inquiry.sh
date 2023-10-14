@@ -201,7 +201,7 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Zap, selecine uma opção!${GRAY_LIGHT}"
+  printf "${WHITE} Olá, bem vindo(a) ao Gerenciador Whaticket Zap! Selecine uma opção.${GRAY_LIGHT}"
   printf "\n\n"
   printf "   [0] Instalar whaticket\n"
   printf "   [1] Atualizar whaticket\n"

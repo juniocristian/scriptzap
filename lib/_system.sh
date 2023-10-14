@@ -49,7 +49,7 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} 💻 Vamos atualizar o sistema Whaticket...${GRAY_LIGHT}"
+  printf "${WHITE} Vamos instalar o sistema, aguarde...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
