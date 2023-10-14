@@ -22,16 +22,7 @@ print_banner() {
   printf "\n\n"
 
   printf "${GREEN}";
-  printf "                                                   
-  printf "                                                   
-  printf "                                                  
-  printf "                                                   
-  printf "                                                  
-  printf "                                                   
-  printf "                                                   
-  printf "                                                  
-  printf "                                                   
-  printf "                                                    
+  Teste                                       
   printf "${NC}";
 
   printf "\n"
