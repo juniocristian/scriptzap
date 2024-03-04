@@ -49,7 +49,7 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} Vamos instalar o sistema, aguarde...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos atualizar o sistema Whaticket...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -275,7 +275,7 @@ EOF
 #######################################
 system_node_install() {
   print_banner
-  printf "${WHITE} Instalando nodejs...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando nodejs...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -303,7 +303,7 @@ EOF
 #######################################
 system_docker_install() {
   print_banner
-  printf "${WHITE} Instalando docker...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando docker...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -336,7 +336,7 @@ EOF
 #######################################
 system_puppeteer_dependencies() {
   print_banner
-  printf "${WHITE} Instalando puppeteer dependencies...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando puppeteer dependencies...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -397,7 +397,7 @@ EOF
 #######################################
 system_pm2_install() {
   print_banner
-  printf "${WHITE} Instalando pm2...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando pm2...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -417,7 +417,7 @@ EOF
 #######################################
 system_snapd_install() {
   print_banner
-  printf "${WHITE} Instalando snapd...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando snapd...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -438,7 +438,7 @@ EOF
 #######################################
 system_certbot_install() {
   print_banner
-  printf "${WHITE} Instalando certbot...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando certbot...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -459,7 +459,7 @@ EOF
 #######################################
 system_nginx_install() {
   print_banner
-  printf "${WHITE} Instalando nginx...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Instalando nginx...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -498,7 +498,7 @@ EOF
 #######################################
 system_nginx_conf() {
   print_banner
-  printf "${WHITE} Configurando nginx...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 configurando nginx...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -521,7 +521,7 @@ EOF
 #######################################
 system_certbot_setup() {
   print_banner
-  printf "${WHITE} Configurando certbot...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Configurando certbot...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2

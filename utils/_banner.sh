@@ -22,14 +22,11 @@ print_banner() {
   printf "\n\n"
 
   printf "${GREEN}";
-                                    
   printf "${NC}";
 
   printf "\n"
 
 printf "${GREEN}";  
-printf "Instalação Whaticket Zap v1, visite nosso site: "scriptzap.com.br". \n";
-
 printf "${NC}";
   
   
